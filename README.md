@@ -4,12 +4,7 @@ Bienvenido a este repositorio que . Aquí encontrarás material educativo, roadm
 El repositorio está organizado de la siguiente manera:
 
 ### roadmaps/
-Contiene los planes de aprendizaje (roadmaps) para cada especialización, divididos en:
-* Front-end
-* Back-end
-* Data Science
-* DevOps
-* Fullstack
+Contiene los planes de aprendizaje (roadmaps) para cada especialización.
   
 ### pildoras/
 Aloja temarios y lineamientos para las píldoras educativas que los estudiantes deben preparar. Está organizado por áreas de especialización, al igual que los roadmaps.
